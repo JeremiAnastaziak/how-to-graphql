@@ -1,0 +1,22 @@
+{
+  "name": "how-to-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeremiAnastaziak/how-to-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeremiAnastaziak/how-to-graphql/issues"
+  },
+  "homepage": "https://github.com/JeremiAnastaziak/how-to-graphql#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.17.1"
+  }
+}
