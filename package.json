@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/JeremiAnastaziak/how-to-graphql#readme",
   "dependencies": {
-    "graphql-yoga": "^1.17.1"
+    "graphql-yoga": "^1.17.1",
+    "prisma-client-lib": "^1.25.6"
   }
 }
