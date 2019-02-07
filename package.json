@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/JeremiAnastaziak/how-to-graphql#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
     "graphql-yoga": "^1.17.1",
+    "jsonwebtoken": "^8.4.0",
     "prisma-client-lib": "^1.25.6"
   }
 }
